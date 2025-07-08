@@ -1,0 +1,42 @@
+D:\PEMROGRAMAN\bin\Debug\net8.0\PEMROGRAMAN.exe
+D:\PEMROGRAMAN\bin\Debug\net8.0\PEMROGRAMAN.deps.json
+D:\PEMROGRAMAN\bin\Debug\net8.0\PEMROGRAMAN.runtimeconfig.json
+D:\PEMROGRAMAN\bin\Debug\net8.0\PEMROGRAMAN.dll
+D:\PEMROGRAMAN\bin\Debug\net8.0\PEMROGRAMAN.pdb
+D:\PEMROGRAMAN\obj\Debug\net8.0\PEMROGRAMAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEMROGRAMAN\obj\Debug\net8.0\PEMROGRAMAN.AssemblyInfoInputs.cache
+D:\PEMROGRAMAN\obj\Debug\net8.0\PEMROGRAMAN.AssemblyInfo.cs
+D:\PEMROGRAMAN\obj\Debug\net8.0\PEMROGRAMAN.csproj.CoreCompileInputs.cache
+D:\PEMROGRAMAN\obj\Debug\net8.0\PEMROGRAMAN.dll
+D:\PEMROGRAMAN\obj\Debug\net8.0\refint\PEMROGRAMAN.dll
+D:\PEMROGRAMAN\obj\Debug\net8.0\PEMROGRAMAN.pdb
+D:\PEMROGRAMAN\obj\Debug\net8.0\PEMROGRAMAN.genruntimeconfig.cache
+D:\PEMROGRAMAN\obj\Debug\net8.0\ref\PEMROGRAMAN.dll
+D:\SEMESTER 2\Project\Final Project Pemrograman\bin\Debug\net8.0\PEMROGRAMAN.exe
+D:\SEMESTER 2\Project\Final Project Pemrograman\bin\Debug\net8.0\PEMROGRAMAN.deps.json
+D:\SEMESTER 2\Project\Final Project Pemrograman\bin\Debug\net8.0\PEMROGRAMAN.runtimeconfig.json
+D:\SEMESTER 2\Project\Final Project Pemrograman\bin\Debug\net8.0\PEMROGRAMAN.dll
+D:\SEMESTER 2\Project\Final Project Pemrograman\bin\Debug\net8.0\PEMROGRAMAN.pdb
+D:\SEMESTER 2\Project\Final Project Pemrograman\obj\Debug\net8.0\PEMROGRAMAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\Project\Final Project Pemrograman\obj\Debug\net8.0\PEMROGRAMAN.AssemblyInfoInputs.cache
+D:\SEMESTER 2\Project\Final Project Pemrograman\obj\Debug\net8.0\PEMROGRAMAN.AssemblyInfo.cs
+D:\SEMESTER 2\Project\Final Project Pemrograman\obj\Debug\net8.0\PEMROGRAMAN.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\Project\Final Project Pemrograman\obj\Debug\net8.0\PEMROGRAMAN.dll
+D:\SEMESTER 2\Project\Final Project Pemrograman\obj\Debug\net8.0\refint\PEMROGRAMAN.dll
+D:\SEMESTER 2\Project\Final Project Pemrograman\obj\Debug\net8.0\PEMROGRAMAN.pdb
+D:\SEMESTER 2\Project\Final Project Pemrograman\obj\Debug\net8.0\PEMROGRAMAN.genruntimeconfig.cache
+D:\SEMESTER 2\Project\Final Project Pemrograman\obj\Debug\net8.0\ref\PEMROGRAMAN.dll
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\bin\Debug\net8.0\PEMROGRAMAN.exe
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\bin\Debug\net8.0\PEMROGRAMAN.deps.json
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\bin\Debug\net8.0\PEMROGRAMAN.runtimeconfig.json
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\bin\Debug\net8.0\PEMROGRAMAN.dll
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\bin\Debug\net8.0\PEMROGRAMAN.pdb
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\obj\Debug\net8.0\PEMROGRAMAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\obj\Debug\net8.0\PEMROGRAMAN.AssemblyInfoInputs.cache
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\obj\Debug\net8.0\PEMROGRAMAN.AssemblyInfo.cs
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\obj\Debug\net8.0\PEMROGRAMAN.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\obj\Debug\net8.0\PEMROGRAMAN.dll
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\obj\Debug\net8.0\refint\PEMROGRAMAN.dll
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\obj\Debug\net8.0\PEMROGRAMAN.pdb
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\obj\Debug\net8.0\PEMROGRAMAN.genruntimeconfig.cache
+D:\SEMESTER 2\Project\Sistem Notifikasi Serangan Karakter Game Sederhana\obj\Debug\net8.0\ref\PEMROGRAMAN.dll
